@@ -1,7 +1,7 @@
 {
   "main.css": "/teams-internship/static/css/main.2f3bcefd.chunk.css",
-  "main.js": "/teams-internship/static/js/main.43700058.chunk.js",
-  "main.js.map": "/teams-internship/static/js/main.43700058.chunk.js.map",
+  "main.js": "/teams-internship/static/js/main.3db94e17.chunk.js",
+  "main.js.map": "/teams-internship/static/js/main.3db94e17.chunk.js.map",
   "static/js/1.d11720e8.chunk.js": "/teams-internship/static/js/1.d11720e8.chunk.js",
   "static/js/1.d11720e8.chunk.js.map": "/teams-internship/static/js/1.d11720e8.chunk.js.map",
   "static/js/2.5a7b8be7.chunk.js": "/teams-internship/static/js/2.5a7b8be7.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/teams-internship/static/js/runtime~main.d4077409.js.map",
   "static/css/main.2f3bcefd.chunk.css.map": "/teams-internship/static/css/main.2f3bcefd.chunk.css.map",
   "index.html": "/teams-internship/index.html",
-  "precache-manifest.1c38f821c30e9803f3f8687bd7fbfb7b.js": "/teams-internship/precache-manifest.1c38f821c30e9803f3f8687bd7fbfb7b.js",
+  "precache-manifest.b35ef870538a80fa711c504fa7fbc2f2.js": "/teams-internship/precache-manifest.b35ef870538a80fa711c504fa7fbc2f2.js",
   "service-worker.js": "/teams-internship/service-worker.js"
 }

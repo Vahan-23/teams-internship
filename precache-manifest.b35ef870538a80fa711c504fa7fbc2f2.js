@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4370005813b6759c6998",
+    "revision": "3db94e179cbc85ef0681",
     "url": "/teams-internship/static/css/main.2f3bcefd.chunk.css"
   },
   {
-    "revision": "4370005813b6759c6998",
-    "url": "/teams-internship/static/js/main.43700058.chunk.js"
+    "revision": "3db94e179cbc85ef0681",
+    "url": "/teams-internship/static/js/main.3db94e17.chunk.js"
   },
   {
     "revision": "d11720e887a1448ed361",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/teams-internship/static/js/runtime~main.d4077409.js"
   },
   {
-    "revision": "daa786a27ebec7e024786c1f13c2774f",
+    "revision": "d6856aa0e4dc698cacc19eb4fa6b2d4c",
     "url": "/teams-internship/index.html"
   }
 ];
