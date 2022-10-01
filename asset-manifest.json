@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.2f3bcefd.chunk.css",
-  "main.js": "/static/js/main.666c5390.chunk.js",
-  "main.js.map": "/static/js/main.666c5390.chunk.js.map",
-  "static/js/1.d11720e8.chunk.js": "/static/js/1.d11720e8.chunk.js",
-  "static/js/1.d11720e8.chunk.js.map": "/static/js/1.d11720e8.chunk.js.map",
-  "static/js/2.080f21ea.chunk.js": "/static/js/2.080f21ea.chunk.js",
-  "static/js/2.080f21ea.chunk.js.map": "/static/js/2.080f21ea.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.28dc535b.js",
-  "runtime~main.js.map": "/static/js/runtime~main.28dc535b.js.map",
-  "static/css/main.2f3bcefd.chunk.css.map": "/static/css/main.2f3bcefd.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.17e4c0d861ed553d76d73110ed2ceddc.js": "/precache-manifest.17e4c0d861ed553d76d73110ed2ceddc.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/teams-internship/static/css/main.2f3bcefd.chunk.css",
+  "main.js": "/teams-internship/static/js/main.666c5390.chunk.js",
+  "main.js.map": "/teams-internship/static/js/main.666c5390.chunk.js.map",
+  "static/js/1.d11720e8.chunk.js": "/teams-internship/static/js/1.d11720e8.chunk.js",
+  "static/js/1.d11720e8.chunk.js.map": "/teams-internship/static/js/1.d11720e8.chunk.js.map",
+  "static/js/2.080f21ea.chunk.js": "/teams-internship/static/js/2.080f21ea.chunk.js",
+  "static/js/2.080f21ea.chunk.js.map": "/teams-internship/static/js/2.080f21ea.chunk.js.map",
+  "runtime~main.js": "/teams-internship/static/js/runtime~main.d4077409.js",
+  "runtime~main.js.map": "/teams-internship/static/js/runtime~main.d4077409.js.map",
+  "static/css/main.2f3bcefd.chunk.css.map": "/teams-internship/static/css/main.2f3bcefd.chunk.css.map",
+  "index.html": "/teams-internship/index.html",
+  "precache-manifest.3ef45c8dc9e08881129e39238a08dca1.js": "/teams-internship/precache-manifest.3ef45c8dc9e08881129e39238a08dca1.js",
+  "service-worker.js": "/teams-internship/service-worker.js"
 }
